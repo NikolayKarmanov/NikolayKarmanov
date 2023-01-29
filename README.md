@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Nikolay;I+learn+Java+programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Nikolay)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+learn+Java+programming)](https://git.io/typing-svg)
