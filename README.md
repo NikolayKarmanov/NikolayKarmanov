@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Nikolay)](https://git.io/typing-svg)
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+learn+Java)](https://git.io/typing-svg)
+
+![image](https://user-images.githubusercontent.com/110821977/215492735-f0fd5a71-1d73-474a-aee9-b7654faec326.png)
+
